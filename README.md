@@ -4,7 +4,7 @@ Use Popcorn - Make your personalized watched movie list
 
 ### Links
 
-- Live Site URL: [Click here](https://use-popcorn.vercel.app/)
+- Live Site URL: [Click here](https://use-popcorn-taupe.vercel.app/)
 
 ### Created with
 
