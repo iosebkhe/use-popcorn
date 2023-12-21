@@ -11,7 +11,7 @@ Welcome to UserPopcorn, a React application where you can discover, rate, and ke
 
 ### Live Demo:
 
-Ready to see usePopcorn in action? Visit our live website: [usePopcorn Live](https://use-popcorn-taupe.vercel.app/).
+Ready to see usePopcorn in action? Visit live website: [usePopcorn Live](https://use-popcorn-taupe.vercel.app/).
 
 ## Inspired by:
 
